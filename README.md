@@ -50,4 +50,4 @@ using an end-to-end machine learning pipeline built in Python.
 ![SHAP Direction Chart](shap_direction.png)
 
 ## Author
-Vinith B. — [LinkedIn](www.linkedin.com/in/vinithh-)
+Vinith B. — [LinkedIn](https://www.linkedin.com/in/vinithh-)
