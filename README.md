@@ -46,8 +46,8 @@ using an end-to-end machine learning pipeline built in Python.
    Replace the load step with your own dataset path.
 
 ## SHAP Feature Importance
-![SHAP Bar Chart](shap_bar.png)
-![SHAP Direction Chart](shap_dot.png)
+![SHAP Importance Chart](shap_importance.png)
+![SHAP Direction Chart](shap_direction.png)
 
 ## Author
-Vinith B. — [LinkedIn](your-linkedin-url-here)
+Vinith B. — [LinkedIn](www.linkedin.com/in/vinithh-)
